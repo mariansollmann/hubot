@@ -20,7 +20,7 @@
 		"hubot": ">= 2.5.1",
 		"hubot-scripts": ">= 2.5.7",
 		"hubot-hipchat": "~2.5.1-5",
-		"hubot-dragonball": ">= 0.0.4",
+		"hubot-dragonball": ">= 0.0.5",
 		"ntwitter": "0.2.10"
 	},
 	"engines": {
